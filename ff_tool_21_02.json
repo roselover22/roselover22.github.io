@@ -1,0 +1,32 @@
+{
+  "result": {
+    "is_erbnigads_on": "on",
+    "is_promotion_on": "on",
+    "appinfo": [
+      {
+        "app_link": "best.hindi.status",
+        "app_name": "Hindi Status Shayari 2022",
+        "app_icon": "http://laxsa.net/pushgmail/AdsForApp/icon/6116415434ww.png",
+        "star_icon": "http://laxsa.net/pushgmail/AdsForApp/icon/installbutton.png",
+        "downloadbutton": "http://laxsa.net/pushgmail/AdsForApp/icon/installbutton.png",
+        "desription": "App For Best Hindi Shayari and Status"
+      },
+      {
+        "app_link": "suredeveloper.india.history",
+        "app_name": "History of India All Language",
+        "app_icon": "http://laxsa.net/pushgmail/AdsForApp/icon/6389587545app10.png",
+        "star_icon": "http://laxsa.net/pushgmail/AdsForApp/icon/installbutton.png",
+        "downloadbutton": "http://laxsa.net/pushgmail/AdsForApp/icon/installbutton.png",
+        "desription": "is very good App to learn About Rich Indian History in All Major Language"
+      }
+    ],
+    "appadmobinfo": {
+      "Ads_bannerid": "ca-app-pub-3940256099942544/6300978111",
+      "Ads_interid": "ca-app-pub-3940256099942544/1033173712",
+      "Ads_interspash": "ca-app-pub-3940256099942544/1033173712",
+      "Ads_native": "ca-app-pub-3940256099942544/2247696110",
+      "Ads_opendads": "ca-app-pub-3940256099942544/3419835294",
+      "Ads_reward": "ca-app-pub-3940256099942544/5224354917"
+    }
+  }
+}
