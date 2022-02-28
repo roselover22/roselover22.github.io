@@ -1,7 +1,7 @@
 {
   "result": {
-    "is_erbnigads_on": "off",
-    "is_promotion_on": "off",
+    "is_erbnigads_on": "on",
+    "is_promotion_on": "on",
     "appinfo": [
       {
         "app_link": " ",
